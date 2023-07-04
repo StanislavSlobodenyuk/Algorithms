@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "algorithm_with_graphs", "BFS_algorithm\algorithm_with_graphs.csproj", "{B2ABA876-0A7E-4BEC-972D-47D709A6DCE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorts", "Sorts\Sorts.csproj", "{21566BBD-4115-4233-982A-E805281A4AC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2ABA876-0A7E-4BEC-972D-47D709A6DCE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2ABA876-0A7E-4BEC-972D-47D709A6DCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2ABA876-0A7E-4BEC-972D-47D709A6DCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2ABA876-0A7E-4BEC-972D-47D709A6DCE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21566BBD-4115-4233-982A-E805281A4AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21566BBD-4115-4233-982A-E805281A4AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21566BBD-4115-4233-982A-E805281A4AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21566BBD-4115-4233-982A-E805281A4AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {589205C6-0E53-477C-9F4D-2CDA24DB5DCF}
+	EndGlobalSection
+EndGlobal
